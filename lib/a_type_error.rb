@@ -1,4 +1,4 @@
-lear1 + 1
+1 + 1
 
 var = "is the loneliest number"
 
